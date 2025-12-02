@@ -30,7 +30,7 @@ cd kakeibo-app
 
 2.Python スクリプトを実行
 
-python kakibo.py
+python kakeibo.py
 
 ---
 
