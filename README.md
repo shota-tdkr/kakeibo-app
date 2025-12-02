@@ -37,7 +37,7 @@ python kakibo.py
 ## Directory Structure（ディレクトリ構成）
 kakeibo-app/
 
-|────kakeibo_cli.py    # メインのターミナル版家計簿アプリ
+|────kakeibo.py    # メインのターミナル版家計簿アプリ
 
 |────kakeibo.db        
 
